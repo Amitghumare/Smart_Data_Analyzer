@@ -321,6 +321,10 @@ logs/
 └── app.log
 ```
 
+
+Online Link :
+https://smartdataanalyzer-ojty8f3qkthqzpkvcp9gdp.streamlit.app/
+
 ---
 
 ## 🔄 How It Works
