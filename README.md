@@ -231,7 +231,7 @@ The provided project structure indicates a Python-based application with:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/smart-data-analyzer.git
+git clone https://github.com/Amitghumare/smart-data-analyzer.git
 cd smart-data-analyzer
 ```
 
@@ -368,30 +368,6 @@ Potential improvements for the project include:
 * Cloud deployment
 * Dataset comparison
 * Advanced anomaly detection
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome.
-
-```bash
-# Fork the repository
-
-# Create a new branch
-git checkout -b feature/new-feature
-
-# Make your changes
-git add .
-
-# Commit
-git commit -m "Add new feature"
-
-# Push
-git push origin feature/new-feature
-```
-
-Then open a Pull Request.
 
 ---
 
